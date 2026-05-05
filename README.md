@@ -32,7 +32,9 @@ And in the end once that is done, I might branch out into making a software appl
 # How to run?
 
 *1. Clone the Repository*
-*2. Ensure you have a valid benchmark excel spreadsheet in the `benchmarks/` folder.*
-*3. Run 'python build_config.py' to generate a useable benchmark config to be used by the main scraper*
-*4. Run 'Scraper.py' and wait for the "Example_Data.json" to be produced
 
+*2. Ensure you have a valid benchmark excel spreadsheet in the `benchmarks/` folder.*
+
+*3. Run 'python build_config.py' to generate a useable benchmark config to be used by the main scraper*
+
+*4. Run 'Scraper.py' and wait for the "Example_Data.json" to be produced
