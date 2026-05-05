@@ -1,0 +1,1384 @@
+[
+    {
+        "rank": "Celestial",
+        "count": 4,
+        "percentAtAbove": 100.0,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "US": 50.0,
+                "AU": 25.0,
+                "VN": 25.0
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 816.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 53.7,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.465
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 1066.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 72.0,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.32
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 859.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 56.4,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.43
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 773.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 58.8,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 10.498
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 827.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 38.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 19.997
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 811.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.9,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 920.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 44.1,
+                    "fov": 103.2
+                },
+                "performance": {
+                    "ttk": 0.418
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 779.9,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.8,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.934
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 850.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.8,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.97
+                }
+            }
+        }
+    },
+    {
+        "rank": "Astra",
+        "count": 39,
+        "percentAtAbove": 99.31,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "BR": 5.4,
+                "KZ": 2.7,
+                "TR": 2.7,
+                "US": 29.7,
+                "RU": 10.8,
+                "GB": 5.4,
+                "CA": 5.4,
+                "DE": 8.1,
+                "CO": 2.7,
+                "DK": 2.7,
+                "KR": 5.4,
+                "AU": 2.7,
+                "SE": 2.7,
+                "VI": 2.7,
+                "PL": 5.4,
+                "RO": 2.7,
+                "TH": 2.7
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 581.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 52.3,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.53
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 666.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 59.8,
+                    "fov": 103.3
+                },
+                "performance": {
+                    "ttk": 0.364
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 632.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 53.8,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.492
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 685.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 52.0,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 10.049
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 718.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 38.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 647.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.4,
+                    "fov": 102.6
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 670.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.9,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.458
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 644.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.1,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.99
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 624.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.02
+                }
+            }
+        }
+    },
+    {
+        "rank": "Nova",
+        "count": 133,
+        "percentAtAbove": 92.62,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "US": 22.0,
+                "SK": 0.8,
+                "TH": 1.6,
+                "FR": 0.8,
+                "RU": 8.7,
+                "IT": 1.6,
+                "PL": 5.5,
+                "CA": 5.5,
+                "KZ": 0.8,
+                "KR": 1.6,
+                "GB-SCT": 1.6,
+                "SE": 0.8,
+                "MX": 0.8,
+                "GB": 4.7,
+                "BR": 4.7,
+                "JP": 5.5,
+                "AU": 3.9,
+                "ZA": 0.8,
+                "UA": 0.8,
+                "CZ": 0.8,
+                "CN": 3.1,
+                "ES": 1.6,
+                "DE": 3.9,
+                "IN": 0.8,
+                "NL": 0.8,
+                "TR": 1.6,
+                "GB-ENG": 0.8,
+                "MY": 0.8,
+                "AL": 0.8,
+                "GU": 0.8,
+                "MN": 0.8,
+                "ID": 0.8,
+                "IM": 0.8,
+                "FI": 2.4,
+                "PH": 0.8,
+                "AT": 0.8,
+                "NZ": 0.8,
+                "HR": 0.8,
+                "CH": 0.8,
+                "DK": 0.8,
+                "NO": 0.8,
+                "WHY ARE U LOOKING HERE #RAWINPUT": 0.8,
+                "PN": 0.8
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 554.4,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.7,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.593
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 670.4,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 57.6,
+                    "fov": 103.3
+                },
+                "performance": {
+                    "ttk": 0.389
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 600.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.537
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 640.9,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.4,
+                    "fov": 102.1
+                },
+                "performance": {
+                    "ttk": 9.933
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 667.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 37.2,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 19.986
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 611.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.5,
+                    "fov": 103.2
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 638.9,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.4,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.487
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 608.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.0,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.066
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 588.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.5,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.082
+                }
+            }
+        }
+    },
+    {
+        "rank": "Grandmaster",
+        "count": 219,
+        "percentAtAbove": 69.81,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "DE": 5.6,
+                "RU": 9.1,
+                "US": 28.4,
+                "GB": 3.0,
+                "NO": 1.0,
+                "TR": 2.0,
+                "CN": 3.6,
+                "CA": 4.6,
+                "EG": 0.5,
+                "KR": 1.0,
+                "TH": 0.5,
+                "VN": 0.5,
+                "AU": 3.6,
+                "CL": 1.0,
+                "BR": 2.5,
+                "KP": 0.5,
+                "BE": 2.5,
+                "MY": 1.0,
+                "CZ": 1.0,
+                "JP": 2.5,
+                "MT": 0.5,
+                "UA": 1.0,
+                "FR": 3.6,
+                "RO": 1.0,
+                "NL": 2.5,
+                "DK": 1.0,
+                "CH": 1.0,
+                "AO": 0.5,
+                "ZA": 0.5,
+                "FI": 3.0,
+                "IT": 0.5,
+                "PH": 1.0,
+                "SE": 2.0,
+                "BA": 0.5,
+                "RE": 0.5,
+                "ES": 0.5,
+                "MX": 1.0,
+                "EE": 1.0,
+                "MN": 0.5,
+                "NZ": 0.5,
+                "KZ": 0.5,
+                "TW": 0.5,
+                "SG": 0.5,
+                "PL": 0.5,
+                "IN": 0.5
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 508.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.8,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.634
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 602.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 57.3,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.393
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 547.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 51.1,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.571
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 574.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 10.766
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 600.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 38.0,
+                    "fov": 102.9
+                },
+                "performance": {
+                    "ttk": 19.999
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 549.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.4,
+                    "fov": 102.9
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 578.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.6,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.506
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 557.9,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.1,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 1.135
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 543.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.4,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.131
+                }
+            }
+        }
+    },
+    {
+        "rank": "Master",
+        "count": 91,
+        "percentAtAbove": 32.25,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "GB": 6.2,
+                "RU": 7.4,
+                "CN": 3.7,
+                "US": 22.2,
+                "AU": 8.6,
+                "JP": 2.5,
+                "GB-SCT": 2.5,
+                "BR": 4.9,
+                "MT": 2.5,
+                "FI": 3.7,
+                "CA": 3.7,
+                "KZ": 1.2,
+                "KR": 2.5,
+                "NL": 2.5,
+                "SE": 2.5,
+                "FR": 2.5,
+                "GB-ENG": 2.5,
+                "UA": 1.2,
+                "AX": 1.2,
+                "MX": 2.5,
+                "CH": 2.5,
+                "KW": 1.2,
+                "DE": 2.5,
+                "TR": 2.5,
+                "PL": 1.2,
+                "EG": 1.2,
+                "DO": 1.2,
+                "MU": 1.2
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 489.4,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.0,
+                    "fov": 102.9
+                },
+                "performance": {
+                    "ttk": 0.582
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 584.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 57.5,
+                    "fov": 103.3
+                },
+                "performance": {
+                    "ttk": 0.38
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 522.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 50.5,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.536
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 541.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 10.991
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 565.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 38.6,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 521.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.0,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 537.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.2,
+                    "fov": 103.3
+                },
+                "performance": {
+                    "ttk": 0.497
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 511.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.5,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.053
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 519.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.5,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 1.086
+                }
+            }
+        }
+    },
+    {
+        "rank": "Jade",
+        "count": 44,
+        "percentAtAbove": 16.64,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "US": 32.5,
+                "RU": 5.0,
+                "RS": 2.5,
+                "BR": 2.5,
+                "DE": 5.0,
+                "CN": 7.5,
+                "HU": 5.0,
+                "QA": 2.5,
+                "AU": 5.0,
+                "IN": 2.5,
+                "GB": 2.5,
+                "UA": 2.5,
+                "NL": 2.5,
+                "SE": 2.5,
+                "JP": 5.0,
+                "VE": 2.5,
+                "BY": 2.5,
+                "KR": 2.5,
+                "SG": 2.5,
+                "MY": 2.5,
+                "FI": 2.5
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 474.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.3,
+                    "fov": 102.9
+                },
+                "performance": {
+                    "ttk": 0.563
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 552.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 52.5,
+                    "fov": 102.5
+                },
+                "performance": {
+                    "ttk": 0.372
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 501.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.4,
+                    "fov": 102.7
+                },
+                "performance": {
+                    "ttk": 0.518
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 535.4,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 49.6,
+                    "fov": 102.8
+                },
+                "performance": {
+                    "ttk": 9.612
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 567.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 41.2,
+                    "fov": 102.7
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 514.9,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.9,
+                    "fov": 102.6
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 524.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.0,
+                    "fov": 102.8
+                },
+                "performance": {
+                    "ttk": 0.492
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 500.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 45.1,
+                    "fov": 102.8
+                },
+                "performance": {
+                    "ttk": 1.015
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 502.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.7,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 1.05
+                }
+            }
+        }
+    },
+    {
+        "rank": "Diamond",
+        "count": 24,
+        "percentAtAbove": 9.09,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "IT": 9.1,
+                "CA": 9.1,
+                "US": 36.4,
+                "GB": 9.1,
+                "AU": 9.1,
+                "KR": 4.5,
+                "DE": 9.1,
+                "PL": 4.5,
+                "CN": 4.5,
+                "BR": 4.5
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 496.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.1,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.526
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 595.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 53.2,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.373
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 513.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.4,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.501
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 554.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 45.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 10.068
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 610.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 36.9,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 542.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 43.2,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 567.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 43.9,
+                    "fov": 103.0
+                },
+                "performance": {
+                    "ttk": 0.482
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 532.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 42.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.958
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 549.4,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 44.8,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 1.023
+                }
+            }
+        }
+    },
+    {
+        "rank": "Platinum",
+        "count": 21,
+        "percentAtAbove": 4.97,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "US": 41.2,
+                "BR": 5.9,
+                "JP": 11.8,
+                "DE": 5.9,
+                "BE": 5.9,
+                "CN": 11.8,
+                "GB-ENG": 5.9,
+                "SE": 5.9,
+                "SA": 5.9
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 596.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.7,
+                    "fov": 102.3
+                },
+                "performance": {
+                    "ttk": 0.525
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 718.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 53.1,
+                    "fov": 102.2
+                },
+                "performance": {
+                    "ttk": 0.377
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 672.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.0,
+                    "fov": 102.3
+                },
+                "performance": {
+                    "ttk": 0.495
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 642.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.1,
+                    "fov": 102.3
+                },
+                "performance": {
+                    "ttk": 11.427
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 671.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 39.6,
+                    "fov": 102.5
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 645.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.5,
+                    "fov": 102.3
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 683.7,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 44.7,
+                    "fov": 102.7
+                },
+                "performance": {
+                    "ttk": 0.476
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 647.0,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 45.2,
+                    "fov": 102.8
+                },
+                "performance": {
+                    "ttk": 0.958
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 653.2,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.2,
+                    "fov": 102.6
+                },
+                "performance": {
+                    "ttk": 1.011
+                }
+            }
+        }
+    },
+    {
+        "rank": "Gold",
+        "count": 8,
+        "percentAtAbove": 1.37,
+        "demographics": {
+            "topCountry": "US",
+            "countryBreakdownPercent": {
+                "GB": 16.7,
+                "US": 33.3,
+                "CN": 16.7,
+                "CA": 16.7,
+                "CO": 16.7
+            }
+        },
+        "categoryStats": {
+            "Dynamic Clicking": {
+                "hardware": {
+                    "fps": 435.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.6,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.51
+                }
+            },
+            "Static Clicking": {
+                "hardware": {
+                    "fps": 467.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.366
+                }
+            },
+            "Linear Clicking": {
+                "hardware": {
+                    "fps": 463.8,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.2,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.495
+                }
+            },
+            "Precise Tracking": {
+                "hardware": {
+                    "fps": 438.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 48.2,
+                    "fov": 101.4
+                },
+                "performance": {
+                    "ttk": 12.706
+                }
+            },
+            "Reactive Tracking": {
+                "hardware": {
+                    "fps": 469.5,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 39.5,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 19.996
+                }
+            },
+            "Control Tracking": {
+                "hardware": {
+                    "fps": 434.6,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 46.3,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.0
+                }
+            },
+            "Speed Switching": {
+                "hardware": {
+                    "fps": 454.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 45.4,
+                    "fov": 103.4
+                },
+                "performance": {
+                    "ttk": 0.479
+                }
+            },
+            "Evasive Switching": {
+                "hardware": {
+                    "fps": 452.3,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 40.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 0.942
+                }
+            },
+            "Stability Switching": {
+                "hardware": {
+                    "fps": 438.1,
+                    "resolution": "1920x1080"
+                },
+                "settings": {
+                    "cm360": 47.7,
+                    "fov": 103.1
+                },
+                "performance": {
+                    "ttk": 1.003
+                }
+            }
+        }
+    },
+    {
+        "rank": "Silver",
+        "count": 0,
+        "percentAtAbove": 0.0,
+        "demographics": {
+            "topCountry": "N/A",
+            "countryBreakdownPercent": {}
+        },
+        "categoryStats": {}
+    },
+    {
+        "rank": "Bronze",
+        "count": 0,
+        "percentAtAbove": 0.0,
+        "demographics": {
+            "topCountry": "N/A",
+            "countryBreakdownPercent": {}
+        },
+        "categoryStats": {}
+    },
+    {
+        "rank": "Iron",
+        "count": 0,
+        "percentAtAbove": 0.0,
+        "demographics": {
+            "topCountry": "N/A",
+            "countryBreakdownPercent": {}
+        },
+        "categoryStats": {}
+    },
+    {
+        "rank": "Unranked",
+        "count": 0,
+        "percentAtAbove": 0.0,
+        "demographics": {
+            "topCountry": "N/A",
+            "countryBreakdownPercent": {}
+        },
+        "categoryStats": {}
+    }
+]

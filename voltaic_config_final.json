@@ -1,0 +1,1171 @@
+{
+    "version": "Voltaic Season 5",
+    "energy_map": {
+        "Iron": 100,
+        "Bronze": 200,
+        "Silver": 300,
+        "Gold": 400,
+        "Platinum": 500,
+        "Diamond": 600,
+        "Jade": 700,
+        "Master": 800,
+        "Grandmaster": 900,
+        "Nova": 1000,
+        "Astra": 1100,
+        "Celestial": 1200
+    },
+    "categories": {
+        "Dynamic Clicking": {
+            "VT Pasu Advanced S5": {
+                "id": 98023,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 910.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1020.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1110.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1240.0
+                    }
+                ]
+            },
+            "VT Pasu Intermediate S5": {
+                "id": 98330,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 770.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 850.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 930.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 980.0
+                    }
+                ]
+            },
+            "VT Pasu Novice S5": {
+                "id": 98059,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 555.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 660.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 745.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 800.0
+                    }
+                ]
+            },
+            "VT Popcorn Advanced S5": {
+                "id": 98024,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 680.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 800.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 910.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1020.0
+                    }
+                ]
+            },
+            "VT Popcorn Intermediate S5": {
+                "id": 98333,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 600.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 690.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 780.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 860.0
+                    }
+                ]
+            },
+            "VT Popcorn Novice S5": {
+                "id": 98285,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 390.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 500.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 600.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 720.0
+                    }
+                ]
+            }
+        },
+        "Static Clicking": {
+            "VT 1w2ts Advanced S5": {
+                "id": 98025,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 1320.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1420.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1520.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1620.0
+                    }
+                ]
+            },
+            "VT 1w3ts Intermediate S5": {
+                "id": 103209,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 1120.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 1220.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 1300.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 1380.0
+                    }
+                ]
+            },
+            "VT 1w4ts Novice S5": {
+                "id": 103210,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 820.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 915.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 1010.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 1110.0
+                    }
+                ]
+            },
+            "VT ww5t Advanced S5": {
+                "id": 98026,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 1510.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1610.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1720.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1860.0
+                    }
+                ]
+            },
+            "VT ww5t Intermediate S5": {
+                "id": 98029,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 1310.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 1400.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 1490.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 1560.0
+                    }
+                ]
+            },
+            "VT ww5t Novice S5": {
+                "id": 98030,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 990.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 1090.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 1190.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 1290.0
+                    }
+                ]
+            }
+        },
+        "Linear Clicking": {
+            "VT Floating Heads Advanced S5": {
+                "id": 98012,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 740.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 830.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 920.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1050.0
+                    }
+                ]
+            },
+            "VT Floating Heads Intermediate S5": {
+                "id": 98055,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 610.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 690.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 770.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 860.0
+                    }
+                ]
+            },
+            "VT Floating Heads Novice S5": {
+                "id": 98054,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 375.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 460.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 540.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 640.0
+                    }
+                ]
+            },
+            "VT Frogtagon Advanced S5": {
+                "id": 105776,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 1090.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1220.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1360.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1490.0
+                    }
+                ]
+            },
+            "VT Frogtagon Intermediate S5": {
+                "id": 105828,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 940.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 1040.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 1140.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 1230.0
+                    }
+                ]
+            },
+            "VT Frogtagon Novice S5": {
+                "id": 106186,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 620.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 740.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 850.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 980.0
+                    }
+                ]
+            }
+        },
+        "Precise Tracking": {
+            "VT PGT Advanced S5": {
+                "id": 98255,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 2750.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3175.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3625.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 4050.0
+                    }
+                ]
+            },
+            "VT PGT Intermediate S5": {
+                "id": 98331,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2275.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 2675.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 3050.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3325.0
+                    }
+                ]
+            },
+            "VT PGT Novice S5": {
+                "id": 98060,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 1900.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 2325.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 2775.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 3050.0
+                    }
+                ]
+            },
+            "VT Snake Track Advanced S5": {
+                "id": 98297,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 3050.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3425.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3725.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 4050.0
+                    }
+                ]
+            },
+            "VT Snake Track Intermediate S5": {
+                "id": 98045,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2800.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 3175.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 3500.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3750.0
+                    }
+                ]
+            },
+            "VT Snake Track Novice S5": {
+                "id": 101560,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 2400.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 2750.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 3125.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 3425.0
+                    }
+                ]
+            }
+        },
+        "Reactive Tracking": {
+            "VT Aether Advanced S5": {
+                "id": 100140,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 2750.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3175.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3525.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 3825.0
+                    }
+                ]
+            },
+            "VT Aether Intermediate S5": {
+                "id": 101369,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2175.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 2550.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 2900.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3175.0
+                    }
+                ]
+            },
+            "VT Aether Novice S5": {
+                "id": 101370,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 1525.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 1900.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 2250.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 2650.0
+                    }
+                ]
+            },
+            "VT Ground Advanced S5": {
+                "id": 100768,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 2875.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3200.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3500.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 3725.0
+                    }
+                ]
+            },
+            "VT Ground Intermediate S5": {
+                "id": 101743,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2550.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 2850.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 3100.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3350.0
+                    }
+                ]
+            },
+            "VT Ground Novice S5": {
+                "id": 101744,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 2100.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 2500.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 2825.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 3100.0
+                    }
+                ]
+            }
+        },
+        "Control Tracking": {
+            "VT Controlsphere Advanced S5": {
+                "id": 103114,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 3100.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3475.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3800.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 4125.0
+                    }
+                ]
+            },
+            "VT Controlsphere Intermediate S5": {
+                "id": 103353,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2750.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 3175.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 3525.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3825.0
+                    }
+                ]
+            },
+            "VT Controlsphere Novice S5": {
+                "id": 103765,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 1575.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 1950.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 2400.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 2900.0
+                    }
+                ]
+            },
+            "VT Raw Control Advanced S5": {
+                "id": 98253,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 3150.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 3550.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 3875.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 4250.0
+                    }
+                ]
+            },
+            "VT Raw Control Intermediate S5": {
+                "id": 98048,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 2775.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 3200.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 3550.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 3875.0
+                    }
+                ]
+            },
+            "VT Raw Control Novice S5": {
+                "id": 98047,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 2125.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 2550.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 2975.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 3450.0
+                    }
+                ]
+            }
+        },
+        "Speed Switching": {
+            "VT DotTS Advanced S5": {
+                "id": 104961,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 1280.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1360.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1420.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1500.0
+                    }
+                ]
+            },
+            "VT DotTS Intermediate S5": {
+                "id": 104865,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 1110.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 1180.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 1230.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 1280.0
+                    }
+                ]
+            },
+            "VT DotTS Novice S5": {
+                "id": 104868,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 845.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 940.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 1030.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 1090.0
+                    }
+                ]
+            },
+            "VT EddieTS Advanced S5": {
+                "id": 104864,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 1020.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 1120.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 1200.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 1280.0
+                    }
+                ]
+            },
+            "VT EddieTS Intermediate S5": {
+                "id": 105176,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 880.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 950.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 1020.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 1080.0
+                    }
+                ]
+            },
+            "VT EddieTS Novice S5": {
+                "id": 104835,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 640.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 730.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 810.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 890.0
+                    }
+                ]
+            }
+        },
+        "Evasive Switching": {
+            "VT DriftTS Advanced S5": {
+                "id": 104866,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 430.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 470.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 510.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 540.0
+                    }
+                ]
+            },
+            "VT DriftTS Intermediate S5": {
+                "id": 104863,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 390.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 430.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 460.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 490.0
+                    }
+                ]
+            },
+            "VT DriftTS Novice S5": {
+                "id": 104862,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 315.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 355.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 390.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 430.0
+                    }
+                ]
+            },
+            "VT FlyTS Advanced S5": {
+                "id": 105143,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 540.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 600.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 660.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 720.0
+                    }
+                ]
+            },
+            "VT FlyTS Intermediate S5": {
+                "id": 105142,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 520.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 570.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 610.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 650.0
+                    }
+                ]
+            },
+            "VT FlyTS Novice S5": {
+                "id": 104830,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 420.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 460.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 500.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 535.0
+                    }
+                ]
+            }
+        },
+        "Stability Switching": {
+            "VT ControlTS Advanced S5": {
+                "id": 104833,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 450.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 490.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 520.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 550.0
+                    }
+                ]
+            },
+            "VT ControlTS Intermediate S5": {
+                "id": 104890,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 420.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 460.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 485.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 520.0
+                    }
+                ]
+            },
+            "VT ControlTS Novice S5": {
+                "id": 105132,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 340.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 380.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 420.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 450.0
+                    }
+                ]
+            },
+            "VT Penta Bounce Advanced S5": {
+                "id": 98619,
+                "thresholds": [
+                    {
+                        "rank": "Grandmaster",
+                        "score": 530.0
+                    },
+                    {
+                        "rank": "Nova",
+                        "score": 580.0
+                    },
+                    {
+                        "rank": "Astra",
+                        "score": 630.0
+                    },
+                    {
+                        "rank": "Celestial",
+                        "score": 670.0
+                    }
+                ]
+            },
+            "VT Penta Bounce Intermediate S5": {
+                "id": 103261,
+                "thresholds": [
+                    {
+                        "rank": "Platinum",
+                        "score": 450.0
+                    },
+                    {
+                        "rank": "Diamond",
+                        "score": 490.0
+                    },
+                    {
+                        "rank": "Jade",
+                        "score": 540.0
+                    },
+                    {
+                        "rank": "Master",
+                        "score": 580.0
+                    }
+                ]
+            },
+            "VT Penta Bounce Novice S5": {
+                "id": 103262,
+                "thresholds": [
+                    {
+                        "rank": "Iron",
+                        "score": 290.0
+                    },
+                    {
+                        "rank": "Bronze",
+                        "score": 340.0
+                    },
+                    {
+                        "rank": "Silver",
+                        "score": 390.0
+                    },
+                    {
+                        "rank": "Gold",
+                        "score": 445.0
+                    }
+                ]
+            }
+        }
+    }
+}
