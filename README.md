@@ -37,4 +37,4 @@ And in the end once that is done, I might branch out into making a software appl
 
 *3. Run `python build_config.py` to generate a useable benchmark config to be used by the main scraper*
 
-*4. Run `Scraper.py` and wait for the `Example_Data.json` to be produced
+*4. Run `Scraper.py` and wait for the `Example_Data.json` to be produced*
