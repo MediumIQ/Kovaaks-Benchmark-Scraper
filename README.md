@@ -3,7 +3,7 @@ A simple python tool that aims to extract, clean and format data from various ko
 
 Currently, the script acts entirely as its own backend data engine. It simply navigates the kovaaks backend API to scrape necessary data (being respectful for rate limits). It outputs a structured JSON file at the end which I plan to utilise in a final front-end project that will contain many more features!
 
-*You can view the "Example_Data.json" to see the example data I scraped (it's very brief just to provide an idea)*
+**You can view the "Example_Data.json" to see the example data I scraped (it's very brief just to provide an idea)**
 
 **Depdencies?**
 
