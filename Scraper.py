@@ -135,10 +135,10 @@ def Run_Scraper():
                     print(f"Scenario: {Scenario_name} has finished scraping!, Total page count: {page}")
                     break
 
-                # stopping at 10 pages for now so it doesn't take forever
-                if page >= 10:
-                    print("Stopping early...")
-                    break
+                # I will likely add this into a configuration file later, but for now if you want to limit how many pages scraped, uncomment this and change the '10'
+                #if page >= 10:
+                    #print("Stopping early...")
+                    #break
 
                 for p in players:
                     steam_id = p.get("steamId")
